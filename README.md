@@ -199,6 +199,19 @@ const goutham = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamKP3002&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouthamKP3002&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  
+### 👀 Profile Views & Trophy Case
+  
+<img src="https://komarev.com/ghpvc/?username=GouthamKP3002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=GouthamKP3002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
 ---
 
 ## 🌱 Current Focus
@@ -248,7 +261,7 @@ func main() {
 
 ### 🌟 Open to freelance opportunities and collaborations!
 
-<img src="https://komarev.com/ghpvc/?username=GouthamKP&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 
 </div>
 
@@ -256,4 +269,4 @@ func main() {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>tika
+</div>
